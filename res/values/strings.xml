@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PhoneMeter</string>
+    <string name="相机">相机</string>
+    <string name="相册">相册</string>
+    <string name="标定矩形">标定矩形</string>
+    <string name="标定测试目标">标定测试目标</string>
+    <string name="下一步">下一步</string>
+    <string name="测量平面距离">测量距离</string>
+    <string name="测量高度">测量高度</string>
+    <string name="测量垂直高度">测量垂直高度</string>
+    <string name="保存结果">保存结果</string>
+    <string name="二维测距">二维测距</string>
+    <string name="三维测距">三维测距</string>
+    <string name="平面测距">平面测距</string>
+</resources>
